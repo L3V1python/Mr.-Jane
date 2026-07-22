@@ -41,7 +41,7 @@ Inspired by the observation and deduction skills of Patrick Jane from *The Menta
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Mr-Jane.git
+git clone https://github.com/L3V1python/Mr.Jane.git
 ```
 
 ## Enter the Directory
