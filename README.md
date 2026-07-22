@@ -27,11 +27,12 @@ Inspired by the observation and deduction skills of Patrick Jane from *The Menta
 
 ## Terminal Interface
 
-![Mr. Jane Terminal Screenshot](Pictures/ss1mrjane.png)
+![Mr. Jane Terminal Screenshot] <img width="721" height="235" alt="ss1mrjane" src="https://github.com/user-attachments/assets/fb9428fc-1ab6-44f0-9d8d-ac68a1de40f7" />
+
 
 ## Username Search Results
 
-![Mr. Jane Search Results](Picture/ss2mrjane.png)
+![Mr. Jane Search Results] <img width="720" height="571" alt="ss2mrjane" src="https://github.com/user-attachments/assets/5bba9a34-b041-4e48-b885-0c1bfe9aaf49" />
 
 ---
 
