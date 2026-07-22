@@ -41,13 +41,13 @@ Inspired by the observation and deduction skills of Patrick Jane from *The Menta
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/L3V1python/Mr.Jane.git
+git clone https://github.com/L3V1python/Mr.-Jane.git
 ```
 
 ## Enter the Directory
 
 ```bash
-cd Mr-Jane
+cd mrjane
 ```
 
 ## Install Requirements
@@ -69,13 +69,14 @@ python3 mrjane.py
 Launch the tool:
 
 ```bash
+cd mrjane
 python3 mrjane.py
 ```
 
 Search a username:
 
 ```text
-Mr.Jane > search username123
+>> search username123
 ```
 
 Example output:
